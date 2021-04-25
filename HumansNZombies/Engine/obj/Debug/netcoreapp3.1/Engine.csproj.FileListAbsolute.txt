@@ -1,0 +1,9 @@
+C:\Users\david\source\repos\HumansNZombies\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\david\source\repos\HumansNZombies\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\david\source\repos\HumansNZombies\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\david\source\repos\HumansNZombies\Engine\obj\Debug\netcoreapp3.1\Engine.csprojAssemblyReference.cache
+C:\Users\david\source\repos\HumansNZombies\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\HumansNZombies\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\david\source\repos\HumansNZombies\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\HumansNZombies\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\david\source\repos\HumansNZombies\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
