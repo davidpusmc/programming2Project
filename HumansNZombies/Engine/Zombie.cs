@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Engine
 {
@@ -11,14 +12,17 @@ namespace Engine
         public int MaximumDamage { get; set; }
         public int RewardExperience { get; set; }
         public int RewardGold { get; set; }
+        public List <LootItem> LootTable { get; set; }
 
-        public Zombie(int currentHitPoints, int maximumHitPoints, int id, string name, int maximumDamage, int rewardExperience, int rewardGold) : base(currentHitPoints, maximumHitPoints)//child of ProofOfLife and needs base constructor reference
+        public Zombie(int id, string name, int maximumDamage, int rewardExperience, int rewardGold, int currentHitPoints, int maximumHitPoints)
+            : base(currentHitPoints, maximumHitPoints)//child of ProofOfLife and needs base constructor reference
         {
             ID = id;
             Name = name;
             MaximumDamage = maximumDamage;
             RewardExperience = rewardExperience;
             RewardGold = rewardGold;
+            LootTable = new List<LootItem>();//creates empty list for storing later
         }
     }
 }
